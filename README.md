@@ -9,3 +9,4 @@ Type: python main.py
 
 # History
 I made this a few years ago, when I was stupid. Please do not look at my old code. It hurts.
+As long as it works.
