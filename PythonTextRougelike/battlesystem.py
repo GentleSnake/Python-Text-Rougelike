@@ -329,7 +329,7 @@ def battle():
         if upgrade_counter == 10:
             enemy_list.append("BULLTROLL")
             enemy_list.append("GHOSTWOOD")
-        if upgrade_counter == 15:
+        if upgrade_counter == 15:         #Makes different enemy types more common later on
             enemy_list.append("BATTRAX")
             enemy_list.remove("GEBLIN")
         if upgrade_counter == 20:
